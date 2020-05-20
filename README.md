@@ -1,4 +1,4 @@
-# README
+# 命名实体识别作业
 
 ##### johnsongwx
 
